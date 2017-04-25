@@ -1,0 +1,25 @@
+{
+  "name": "jud-js-runtime",
+  "version": "0.0.2",
+  "description": "jud js runtime",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiding/jud-js-runtime.git"
+  },
+  "keywords": [
+    "jud"
+  ],
+  "author": "vkiding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vkiding/jud-js-runtime/issues"
+  },
+  "homepage": "https://github.com/vkiding/jud-js-runtime#readme"
+}
